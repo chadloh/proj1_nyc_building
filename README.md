@@ -1,5 +1,5 @@
 
-# New York City's Boom and Bloom
+# New York City Booms and Blooms
 
 **This project explores the New York City building data (859,032 data points).**
 
