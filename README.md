@@ -7,7 +7,7 @@
 
 
 [Github Repository](https://github.com/chadloh/proj1_nyc_building) |
-[Presentation](http://link.com)
+[Presentation](https://1drv.ms/p/s!AtY5Rersg7_NgYs826uoyV73B4ztAg?e=icY8mZ)
 
 
 
